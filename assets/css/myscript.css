@@ -1,0 +1,20 @@
+.formfields label {
+    width: 35%;
+    display: inline-block;
+}
+
+.formfields {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.formfields input {
+    width: 50%;
+}
+input[type="checkbox"] {
+    width: auto;
+}
+label.custom-control-label {
+    width: auto;
+    margin-right: 15px;
+}
